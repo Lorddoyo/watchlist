@@ -1,0 +1,4 @@
+file.txt
+virtual/
+*.pyc
+instance/
